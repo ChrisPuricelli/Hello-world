@@ -1,4 +1,4 @@
 ## Attempt at header
 
-[Link to readme](Hello-world/README.md)
+[Link to readme](https://github.com/ChrisPuricelli/Hello-world/blob/master/README.md)
     
