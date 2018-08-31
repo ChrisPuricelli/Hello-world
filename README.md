@@ -44,3 +44,12 @@ This will be a simple link to a different website:
 
 Added link to secondary file:
 [Link to file](https://github.com/ChrisPuricelli/Hello-world/blob/master/Helloworld%20secondary%20file.md)
+
+Now trying my hand at block code:
+```C
+int main(void)
+{
+   printf("Hello World!\n);
+   return 0;
+}
+```
