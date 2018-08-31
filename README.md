@@ -41,3 +41,6 @@ Created an issue and then dragged pic from my files to the content, it turned it
 
 This will be a simple link to a different website:
 [Google](https://google.com)
+
+Added link to secondary file:
+[Link to file](https://github.com/ChrisPuricelli/Hello-world/blob/master/Helloworld%20secondary%20file.md)
