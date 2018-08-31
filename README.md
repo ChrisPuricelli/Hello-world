@@ -49,7 +49,7 @@ Now trying my hand at block code:
 ```C
 int main(void)
 {
-   printf("Hello World!\n);
+   printf("Hello World!\n");
    return 0;
 }
 ```
