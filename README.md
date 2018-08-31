@@ -37,4 +37,7 @@ Attempt at a link to an external website:
 
 Now attempting to load a picture that's located in the directory:
 ![black hole](https://user-images.githubusercontent.com/32752247/44890671-e74b0b80-aca0-11e8-870d-5dbfdfd655d0.jpg)
+Created an issue and then dragged pic from my files to the content, it turned it into an image file that I put here. It worked.
 
+This will be a simple link to a different website:
+[Google](https://google.com)
